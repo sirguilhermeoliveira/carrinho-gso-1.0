@@ -1,6 +1,6 @@
 Gif do Projeto:
 
-![Alt Text](https://giphy.com/gifs/qGc4I2HwpI7cyuTSpe)
+![Alt Text](https://media.giphy.com/media/qGc4I2HwpI7cyuTSpe/giphy.gif)
 
 ![](name-of-giphy.gif)
 
