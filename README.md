@@ -1,5 +1,4 @@
-# O título maior
-## O segundo maior título
+# Carrinho desenvolvido em React
 
 ![Alt Text](https://media.giphy.com/media/qGc4I2HwpI7cyuTSpe/giphy.gif)
 
