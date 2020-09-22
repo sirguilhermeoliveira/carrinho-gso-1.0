@@ -1,6 +1,7 @@
-# Carrinho desenvolvido em React
+# Carrinho de Compras
+## Desenvolvido em React
 
-![Alt Text](https://media.giphy.com/media/qGc4I2HwpI7cyuTSpe/giphy.gif)
+![Alt Text](https://media.giphy.com/media/d3cIxiUbUf62TV5CZm/giphy.gif)
 
 ![](name-of-giphy.gif)
 
